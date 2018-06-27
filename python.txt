@@ -1,0 +1,30 @@
+python
+
+1.if elif else for while all small letter,:
+2.for k,v in dic.iterms():
+      print(k,v)
+3.
+
+
+
+
+
+
+
+
+
+
+
+creat new file:
+  new=open('name.txt','w',encoding='utf-8')
+  name.write()
+  name.read()
+  name.close()
+
+check seiki katachi
+	import re -----can't be deleted
+	value=input('“d˜b”Ô†‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢->')
+	if re.search('\d{3}-\d{4}-\d{4}$',value) is None:-----only have two value None or right form
+   	     print('ŠÔˆá‚Á‚½Œ`Ž®‚Å‚·')
+	else:
+    	    print(value)
